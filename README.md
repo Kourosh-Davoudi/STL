@@ -6,7 +6,8 @@ Learning outcomes highlights:
 - How to use <code> map </code>
 ### Task1: 
 Write a program that reads the names and grades of students then adds students objects in a <code>list</code> of <code>Student</code>, so that the <code>list</code> is always sorted in ascending order of grades (you need to find the appropriate position for any insertion).
-The program prints the list (both name and grade) in ascending, and then in descending order (based on grade). 
+The program prints the <code>list</code> (both name and grade) in ascending, and then in descending order (based on grade). 
+
 Note: The <code>Student</code> class is implemented for you.
 
 **Hint:** You can define a <code>list</code> container like:
