@@ -31,7 +31,7 @@ Jessica 65
 Sarah 30
 John 70
 ```
-Sample output file:
+Sample output file (the order is not important):
 ```C++
 John 
 Amanda 
@@ -45,7 +45,7 @@ Hint: You can define a list container like:
 ```C++
 map<string, int> c;
 ```
-Sample output file:
+Sample output file (the order is not important):
 ```C++
 John 2
 Amanda 1
