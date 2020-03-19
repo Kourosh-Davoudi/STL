@@ -1,7 +1,7 @@
 ## STL Containers and Iterators
 
 Learning outcomes highlights: 
-- How to use a <code>list</code> like <code>Student</code> 
+- How to use a <code>list</code> of objects (e.g., <code>Student</code>)
 - How to use <code> set </code>
 - How to use <code> map </code>
 ### Task1: 
