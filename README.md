@@ -39,7 +39,7 @@ Sarah
 ```
 
 ### Task3: 
-Write a program that reads the names and and grades of students from an input file, then prints the student's names and the number of time that one student has a mark less than 50.
+Write a program that reads the names and grades of students from an input file, then prints the student's names and the number of time that one student has a mark less than 50.
 
 Hint: You can define a list container like:
 ```C++
