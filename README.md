@@ -36,7 +36,6 @@ Sample output file:
 John 
 Amanda 
 Sarah  
-Jessica 
 ```
 
 ### Task3: 
