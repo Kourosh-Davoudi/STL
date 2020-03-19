@@ -9,7 +9,7 @@ Write a program that reads the names and grades of students then adds students i
 The program prints the list (both name and grade) in ascending, and then in descending order (based on grade). 
 Note: The <code>Student</code> class is implemented for you.
 
-Hint: You can define a <code>list<code> container like:
+**Hint:** You can define a <code>list</code> container like:
 ```C++
 list<Student> c;
 ``` 
