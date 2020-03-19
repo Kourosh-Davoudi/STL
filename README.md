@@ -15,7 +15,7 @@ Note: The <code>Student</code> class is implemented for you.
 list<Student> c;
 ``` 
 ## Task2:
-Write a program that reads the names and and grades of students form an input file and print the name of students that have at least one mark less that 50 for the invitation purpose. The the printed list should not have any duplicate.
+Write a program that reads the names and and grades of students form an input file and print the name of students that have at least one mark less that 50 for a report. The printed list should not have any duplicate.
 
 Hint: You can define a <code>set</code> container like:
 ```C++
